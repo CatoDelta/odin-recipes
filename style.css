@@ -1,0 +1,29 @@
+h1 {
+    color: #0F2143;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: #DFF0D8;
+}
+
+ul {
+    color: #0F2143;
+    background-color: #DFF0D8;
+    font-weight: bolder;
+    list-style-position: inside;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.page-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 60%
+}
+
+img {
+    border: solid;
+}
+
+body {
+    background-image: url('/Images/mountain-website.png');
+}
